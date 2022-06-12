@@ -9,7 +9,8 @@ import (
 )
 
 const (
-	HOST = "database"
+	//HOST = "database"
+	HOST = "localhost"
 	PORT = 5432
 )
 

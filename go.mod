@@ -1,4 +1,4 @@
-module kelseyduffy/bucketeer
+module github.com/kelseyduffy/bucketeer
 
 go 1.18
 
